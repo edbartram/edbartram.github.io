@@ -1,3 +1,5 @@
+<img src="/Ed Profile.jpg" height="350" align="right" alt="Ed Bartram">
+
 # Upcoming Events:
 ## [ColdFusion Alive Podcast](http://teratech.com/podcast/)
 TBD - Into the Box interview
@@ -12,7 +14,7 @@ April 27, 2018 - Presentation: Assert Control Over Your Legacy Applications with
 
 # Presentations:
 ## Assert Control Over Your Legacy Applications with TestBox
-[Slides](/Assert Control Over Your Legacy Applications.pdf)
+[Assert Control Over Your Legacy Applications Slides](/Assert Control Over Your Legacy Applications.pdf)
 Target Audience: This talk is aimed at developers who work in environments having little to no code coverage with unit tests.  
 Description: Developers are more confident making changes to code when it is covered by tests. Tests can be run as part of a business' deployment process improving overall quality. When starting a new "green field" project, this can be accomplished using Test Driven Development (TDD) which prescribes writing tests and then writing code to make those tests pass. But what if we already have a code base written with little or no tests? How do we improve our code coverage then? In this talk I will show you how to install TestBox quickly in your existing environment and how to get started writing tests improving the quality of your code and the dependability of your application. You will learn what tests to write, how to name them, how to write them, and when to write them. Attendees will be able to return to their office and immediately begin writing tests covering their legacy code, improving quality and reliability of their application.
 
