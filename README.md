@@ -1,4 +1,4 @@
-<img src="/Ed Profile.jpg" height="350" align="right" alt="Ed Bartram">
+<img src="/Ed Profile.jpg" height="256" align="right" alt="Ed Bartram">
 
 # Upcoming Events:
 ## [ColdFusion Alive Podcast](http://teratech.com/podcast/)
