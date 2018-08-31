@@ -2,8 +2,8 @@
 
 # Upcoming Events:
 ## [CF Summit](https://cfsummit.adobeevents.com/)
-October 1, 2018 - TA for Pete Frietag's Preconference Workshop: Hands on ColdFusion Security Workshop
-October 2, 2018 - Presentation: Stunt Doubles For Your Code
+* October 1, 2018 - TA for Pete Frietag's Preconference Workshop: Hands on ColdFusion Security Workshop
+* October 2, 2018 - Presentation: Stunt Doubles For Your Code
 You probably know them as mocks and stubs, but these are only two of a category known as Test Doubles. Test Doubles are like stunt doubles for your code - they stand in for code you wish to isolate from the unit you are testing and perform the required actions. In this session you will learn about Test Stubs, Test Spies, Mock Objects, Fake Objects, and Dummy Objects. You will learn how to use them, when to use them, and the type of situations you would want to use each of them. Return to your office and take your unit tests to the next level with these advanced techniques.
 
 # Past Events:
